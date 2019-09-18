@@ -21,4 +21,7 @@ describe do
     result = band_pass_filter([80,90,100,110,120], 90, 110)
     expect(result).to eq([90,90,100,110,110])
   end
+  it "throws error message if given string as param" do
+    expect { band_pass_filter("hello", 90, 110) }.to raise_error("invalid input")
+  end
 end
