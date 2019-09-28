@@ -2,7 +2,7 @@
 
 ## Purpose: 
 - Demonstrate my ability to translate user requirements (expressed in vague, non-technical terms) to a technical spec. 
-- Complete task under time pressure (45 mins) whilst being observed by a review. 
+- Complete task under time pressure (45 mins) whilst being observed by a reviewer (who provided feedback afterwards). 
 - Demonstrate good use of TDD process.
 
 ## How the app works:
